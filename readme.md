@@ -13,5 +13,6 @@ fork or clone directory
 ```shell
 $ cd src
 $ rustc main.rs
+   
 $ ./main 3+3*10
 ```
