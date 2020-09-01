@@ -1,4 +1,4 @@
-# lexer-rs 
+# simple-lexer-rs 
 
 Simple lexer for calcuator:  
    
