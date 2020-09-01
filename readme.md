@@ -10,8 +10,8 @@ Simple lexer for calcuator:
   
 fork or clone directory  
   
-``
-$ cd src    
-$ rustc main.rs     
-$ ./main 3+3*10     
-``
+```shell
+$ cd src
+$ rustc main.rs
+$ ./main 3+3*10
+```
